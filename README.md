@@ -1,4 +1,4 @@
-Hi, My name is [Rhuan Rocha](http://rhuanrocha.net), I am Principal Software Engineer at Digibee working on the Digibee iPaaS and the founder of the [Cloud Conference Day](http://cloudconferenceday.com) event. Besides, I'm a contributor to many Open Source projects and an Apache Camel committer.
+Hi, My name is [Rhuan Rocha](http://rhuanrocha.net), I am Principal Software Engineer at Digibee working on the Digibee iPaaS, and I'm founder of the [Cloud Conference Day](http://cloudconferenceday.com) event. Besides, I'm a contributor to many Open Source projects and an Apache Camel committer.
 
 
 
