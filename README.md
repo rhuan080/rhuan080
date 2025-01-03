@@ -1,4 +1,4 @@
-Hi, My name is [Rhuan Rocha](http://rhuanrocha.net), I am Java specialist focused on integration and iPaaS. I'm founder of the [Cloud Conference Day](http://cloudconferenceday.com) event, a contributor to many Open Source projects, and an Apache Camel committer.
+Hi, My name is [Rhuan Rocha](http://rhuanrocha.net), I am a Java specialist with a strong focus on integration and iPaaS, as well as the CTO and Co-Founder of LowFlow. I'm Founder of the [Cloud Conference Day](http://cloudconferenceday.com) event, a contributor to many Open Source projects, and an Apache Camel committer.
 
 
 
